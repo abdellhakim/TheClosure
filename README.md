@@ -3,8 +3,8 @@ a program that Calculate the closure of any given attribute of a relation (given
 
  Closure calculation:
 
-/*Input:
+**Input:
 Relationship + functional dependencies
 
-/*Output:
+**Output:
 closure.
